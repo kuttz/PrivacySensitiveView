@@ -23,7 +23,7 @@ struct ListView: View {
                 coordinator.push(.custom)
             }
         }
-        .navigationTitle("Implementations")
+        .navigationTitle("Views")
     }
 }
 
